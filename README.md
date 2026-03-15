@@ -59,10 +59,8 @@ python render.py -s <path to m360>/<garden> -m output/m360/garden --skip_test --
 We provide scripts to evaluate our method of novel view synthesis and geometric reconstruction.
 
 #### Novel View Synthesis
-For novel view synthesis on [MipNeRF360](https://jonbarron.info/mipnerf360/) (which also works for other colmap datasets), use
-```bash
-python scripts/m360_eval.py -m360 <path to the MipNeRF360 dataset>
-```
+For novel view synthesis on MipNeRF360 (which also works for other colmap datasets), use
+python scripts/m360_eval.py -m60 <path to the MipNeRF360 dataset>
 
 #### Geometry reconstruction
 
