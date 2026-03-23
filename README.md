@@ -1,4 +1,4 @@
-This is the official repository for our paper "Closing the Gaps: Sparse-View 2D Gaussian Splatting with Improved Geometric Reliability"
+This is the official repository for our paper "Closing the Gaps: Enhancing Geometric Reliability for Sparse-View 2D Gaussian Splatting"
 
 ![result](assets/0.png)
 
